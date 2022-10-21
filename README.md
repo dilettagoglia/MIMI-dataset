@@ -1,8 +1,8 @@
 # Multi-aspect Integrated Migration Indicators (MIMI) dataset
 
-#### Goglia, D.<sup>1</sup>, Pollacci, L.<sup>1</sup>, Sirbu, A.<sup>1</sup>
+#### Goglia, D.<sup>1</sup>, Pollacci, L.<sup>1</sup>, Sîrbu, A.<sup>1</sup>
 
-*<sup>1</sup> Department of Computer Science, University of Pisa, 56127 Pisa, Italy; d.goglia@studenti.unipi.it (D.G.),
+*<sup>1</sup> Department of Computer Science, University of Pisa, 56127 Pisa, Italy; <a href='d.goglia@studenti.unipi.it'>d.goglia@studenti.unipi.it</a> (D.G.),
 laura.pollacci@di.unipi.it (L.P.), alina.sirbu@unipi.it (A.S)
 
 ---
@@ -13,13 +13,18 @@ The Python Notebook provided in this repository is useful to read and analyze MI
 
 ---
 
-**Dataset:** Goglia, D. (2022). Multi-aspect Integrated Migration Indicators (MIMI) dataset (version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.6360651
+**Dataset:** Goglia, D. (2022). Multi-aspect Integrated Migration Indicators (MIMI) dataset (version 2.0.0). Zenodo. https://doi.org/10.5281/zenodo.6493325
 
-**DataPaper link:** the link will be available soon.
+**Related paper:** _currently submitted to MDPI Data [status: under revisions]. The link will be available soon._
 
 ---
 ### Funding
-This research was funded by <a href='https://hummingbird-h2020.eu/'>HumMingBird</a> and <a href='https://plusplus.sobigdata.eu/'>SoBigData</a>.<br/>
+This work received funding by the European Union – Horizon 2020 Program through the
+project <a href='https://hummingbird-h2020.eu/'>“HumMingBird – Enhanced migration measures from a multidimensional perspective”</a>,
+Grant Agreement n.870661. and under the scheme “INFRAIA-01-2018-2019 – Integrating Activities
+for Advanced Communities”, Grant Agreement n.871042, <a href='https://plusplus.sobigdata.eu/'>“SoBigData++: European Integrated
+Infrastructure for Social Mining and Big Data Analytics”</a>. 
+<br/>
 
 <p align="center">
   <a href='https://plusplus.sobigdata.eu/'>
